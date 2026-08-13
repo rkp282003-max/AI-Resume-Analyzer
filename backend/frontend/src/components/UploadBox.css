@@ -1,0 +1,29 @@
+.upload-box {
+  display: block;
+  width: 100%;
+  cursor: pointer;
+}
+
+.upload-content {
+  text-align: center;
+}
+
+.pdf-icon {
+  font-size: 32px;
+}
+
+.upload-content h2 {
+  margin: 10px 0;
+}
+
+.upload-content p {
+  margin: 8px 0 15px;
+}
+
+.selected-file {
+  margin: 15px auto;
+}
+
+.browse-btn {
+  cursor: pointer;
+}
